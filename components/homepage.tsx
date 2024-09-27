@@ -24,7 +24,7 @@ export function HomepageComponent() {
       {/* Hero Section */}
       <section className="relative h-[500px]">
         <img
-            src="/placeholder.svg?height=500&width=1000"
+            src="/top.jpeg?height=500&width=1000"
             alt="ケアスタッフが利用者を笑顔でサポートしているイメージ写真"
             className="w-full h-full object-cover"
         />
