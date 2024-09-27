@@ -1,8 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import Image from 'next/image'
-import { MapPin, Phone, Mail, ChevronRight } from 'lucide-react'
+import { Phone, Mail } from 'lucide-react'
 
 export function HomepageComponent() {
   return (
